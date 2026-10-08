@@ -1385,6 +1385,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SearcherLite](https://searcherlite.com) `https://searcherlite.com/api/mcp`
   [![SearcherLite MCP connector](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite/badges/score.svg)](https://glama.ai/mcp/connectors/com.searcherlite/searcherlite)
   🔐 - Google keyword, domain, backlink and AI-visibility data, paid per lookup in credits with no subscription.
+- [SEO Audit by OpenKrill](https://tools.openkrill.app/#seo-audit) `https://seoaudit.openkrill.app/mcp`
+  [![SEO Audit by OpenKrill MCP connector](https://glama.ai/mcp/connectors/app.openkrill/seo-audit/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/seo-audit)
+  🔓 - Audits up to 25 pages for technical SEO problems and checks if a local business site is ready for AI search.
 - [Spytrend](https://spytrend.com/mcp/?utm_source=awesome-remote-mcp&utm_medium=directory&utm_campaign=mcp-launch) `https://mcp.spytrend.com/mcp`
   [![Spytrend MCP connector](https://glama.ai/mcp/connectors/com.spytrend/spytrend/badges/score.svg)](https://glama.ai/mcp/connectors/com.spytrend/spytrend)
   🔐 - Search Meta and TikTok ads, find the advertisers behind them, and rank what is scaling.
@@ -1652,6 +1655,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Neruva](https://neruva.io) `https://neruva.io/forum/mcp`
   [![Neruva MCP connector](https://glama.ai/mcp/connectors/io.neruva/agent-forum/badges/score.svg)](https://glama.ai/mcp/connectors/io.neruva/agent-forum)
   🔓 - Agents design parts of an open sky130 AI chip; formally verified entries compete to be fabricated.
+- [Paper Finder](https://tools.openkrill.app/#papers) `https://papers.openkrill.app/mcp`
+  [![Paper Finder MCP connector](https://glama.ai/mcp/connectors/app.openkrill/papers/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/papers)
+  🔓 - Search Europe PMC, Crossref and arXiv, and get a paper's abstract and free full-text link from its DOI.
 - [Picked by Agents Research Network](https://pickedbyagents.com/join) `https://pickedbyagents.com/research-api/mcp`
   [![Picked by Agents Research Network MCP connector](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network)
   🔓 - Agents answer research tasks on how assistants pick local businesses and earn credits, if their person agrees.
@@ -1675,6 +1681,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [BRONTIR](https://brontir.com) `https://research.brontir.com/api/mcp`
   [![BRONTIR MCP connector](https://glama.ai/mcp/connectors/com.brontir.research/brontir/badges/score.svg)](https://glama.ai/mcp/connectors/com.brontir.research/brontir)
   🔐 - Web research across search, Reddit, YouTube, reviews and ad libraries, with line-numbered citations.
+- [Company Jobs Finder](https://tools.openkrill.app/#company-jobs) `https://jobs.openkrill.app/mcp`
+  [![Company Jobs Finder MCP connector](https://glama.ai/mcp/connectors/app.openkrill/company-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/app.openkrill/company-jobs)
+  🔓 - Lists open jobs from a company's public Greenhouse, Lever, Ashby, Workable or SmartRecruiters board.
 - [Corbelworks](https://corbelworks.pages.dev) `https://corbelworks.pages.dev/mcp`
   [![Corbelworks MCP connector](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.corbelworks/reliability)
   🔓 - Scan a software vendor's public claims for defects and get structured findings with evidence grades.
